@@ -1,5 +1,4 @@
-// Amit Eliya - 211549753
-// Amit Kriaf - 314838269
+
 
 #include "game.h"
 #include "gameLayout.h"
